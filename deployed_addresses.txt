@@ -1,0 +1,4 @@
+PredictionMarket: 0xe6f22b5c549bdce613d3ecf27911b1f0007974de
+Prediction: 0xf72120f2cd77b923df88098a81528fb8f90715c0
+
+note - many Predictions can be created, and the one listed here is simply the first one that was created.
