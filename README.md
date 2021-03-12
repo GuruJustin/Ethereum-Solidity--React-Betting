@@ -1,4 +1,4 @@
 # Ethereum-Solidity--React-Betting
 Ethereum-Solidity--React-Betting-App.git
 
-[![Code Quality Score](<BADGE-SCORE-URL>)](<PUBLIC-URL>)
+[![codecov](https://codecov.io/gh/GuruJustin/Ethereum-Solidity--React-Betting/branch/main/graph/badge.svg?token=34NJ2B1NJJ)](https://codecov.io/gh/GuruJustin/Ethereum-Solidity--React-Betting)
